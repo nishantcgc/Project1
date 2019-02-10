@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Scanner;
 
-//accessing previous commits
+//Adding comments
 public class Practice_23_12_218 {
 	//Method to print values in ascending order
 	public static void printValues(Map<String,Integer> map){
